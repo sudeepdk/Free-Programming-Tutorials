@@ -375,8 +375,6 @@
 - ### [JavaScript Essentials 2017 Mini Course](http://bit.ly/2yPnZZS)
    Learn the basis of JavaScript, including programming fundamentals you can take to PHP, Python and Node.js
 
-- ### [Leveling up to ES6](http://bit.ly/2yP9Ag2)
-   Level up your javascript knowledge with the latest features provided in ES6
 
 - ### [MEAN Stack For Web Developers: Build Websites on Javascript](http://bit.ly/2zGo9BT)
    Use cutting edge tools to build fast, robust Javascript based web applications with MongoDB, Express, Angular and Node
